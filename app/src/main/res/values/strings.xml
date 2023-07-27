@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quaternion And OpenGL</string>
+    <string name="message">上の図形をドラッグしてみてください。</string>
+</resources>
